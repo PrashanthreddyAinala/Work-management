@@ -1,0 +1,13 @@
+.milestone {
+  margin: 10px;
+  padding: 15px;
+  height: 80vh;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.mile-btn {
+  background-color: white;
+  border: none;
+  color: #d1d5db;
+}

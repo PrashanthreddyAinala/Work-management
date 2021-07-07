@@ -1,0 +1,16 @@
+.header {
+  background-color: #60a5fa;
+  display: flex;
+  color: #f3f4f6;
+}
+.back {
+  margin-left: 10rem;
+}
+
+.right {
+  display: flex;
+  margin-left: 50rem;
+}
+.right p {
+  margin: 15px 30px;
+}

@@ -1,0 +1,11 @@
+.App {
+  display: grid;
+  grid-template-columns: 7% 20% 20% 30% 20%;
+}
+body {
+  margin: 0px;
+}
+
+.blue {
+  background-color: #60a5fa;
+}
